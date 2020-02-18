@@ -27,9 +27,12 @@ Skills that I have with Cubing include:
   <enter>
  Ao5: 9.93
   <enter>
+    
  ### Day 2 of Cubing
  - Learning pyramix 
  - *Pyramix learnt in approx 25 mins*
+ - ***Goal: try to get an Ao12 under 1 minute for the Pyramix***
+    
  #### Ao12 for Pyramix
  - 1:33.12
  - 56.85
@@ -37,7 +40,8 @@ Skills that I have with Cubing include:
  - 57.20
  - 1:10.12
  - 1:19.64
- -
+ - 45.72
+ - 
  
  
  
