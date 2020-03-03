@@ -48,6 +48,31 @@ Skills that I have with Cubing include:
  - 1:01.25
  <enter>
  Ao12: 1:04.23
+  
+  ### Day 3 of Cubing 
+  - Practicing Pyramix (Try to get a better average)
+  
+   #### Ao5 for Pyramix
+   - 48.57
+   - 54.22
+   - 43.32
+   - 48.78
+   - 41.93
+   <enter>
+  Ao5: 47.332
+  
+  
+  ### Validated times(Pyramix)
+  
+  ##### 1st Attempt
+  - PB: 33.42 seconds
+  - MO3: 49.39 seconds
+  
+ ##### 2nd Attempt
+ - PB: 25.384 seconds
+ - MO3: 33.68 seconds
+ 
+  
  
  
  
