@@ -73,8 +73,8 @@ Skills that I have with Cubing include:
  - MO3: 33.68 seconds
  
  ##### 3rd Attempt
- -PB: 31.138
- -M03: 51.78 seconds
+ - PB: 31.138
+ - M03: 51.78 seconds
  
   
  
